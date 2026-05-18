@@ -44,7 +44,7 @@ st.markdown("### End-to-End Machine Learning Project")
 # LOAD DATA
 # ============================================
 
-DATA_PATH = "churn_modelling.csv"
+DATA_PATH = "Churn_Modelling.csv"
 
 @st.cache_data
 def load_data():
